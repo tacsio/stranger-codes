@@ -13,7 +13,7 @@
 3. [Processing][reference]
 
 
-[gif]: https://github.com/tacsio/stranger-codes/raw/master/starfield/starfield.gif
+[gif]: https://github.com/tacsio/stranger-codes/raw/master/menger-sponge-fractal/sponge.gif
 [processing]: https://processing.org/
 [reference]: https://processing.org/reference/
 [thecodetrain]: https://thecodingtrain.com/
