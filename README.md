@@ -28,7 +28,11 @@
 
 ![rain3][rain3]
 
+# Snake
 
+![snake1][snake1]
+
+![snake2][snake2]
 
 
 [starfield]: https://github.com/tacsio/stranger-codes/raw/master/starfield/starfield.gif
@@ -40,3 +44,5 @@
 [sponge3]: https://github.com/tacsio/stranger-codes/raw/master/menger-sponge-fractal/sponge3.gif
 [fire]: https://raw.githubusercontent.com/tacsio/doom-fire/master/fire.gif
 [stranger]: https://github.com/tacsio/stranger-codes/raw/master/stranger-codes.png
+[snake1]: https://github.com/tacsio/stranger-codes/raw/master/snake/.github/snake1.gif
+[snake2]: https://github.com/tacsio/stranger-codes/raw/master/snake/.github/snake2.gif
