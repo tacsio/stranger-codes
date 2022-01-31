@@ -34,6 +34,9 @@
 
 ![snake2][snake2]
 
+# Sharingan
+
+![sharingan][sharingan]
 
 [starfield]: https://github.com/tacsio/stranger-codes/raw/master/starfield/starfield.gif
 [rain1]: https://github.com/tacsio/stranger-codes/raw/master/rain/rain1.gif
@@ -46,3 +49,4 @@
 [stranger]: https://github.com/tacsio/stranger-codes/raw/master/stranger-codes.png
 [snake1]: https://github.com/tacsio/stranger-codes/raw/master/snake/.github/snake1.gif
 [snake2]: https://github.com/tacsio/stranger-codes/raw/master/snake/.github/snake2.gif
+[sharingan]: https://github.com/tacsio/stranger-codes/raw/master/sharingan/.github/sharingan.gif
